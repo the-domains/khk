@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-04T15:35:29.139Z'
-dateModified: '2016-04-04T15:35:21.662Z'
+description: "Our parties are free to attend, and are run in a well-equipped \ndungeon fitted with a wide array of toys and furniture available for \nuse. Parties occur every month, and are by invitation only. To get an invitation please see consult our vouching rules."
+datePublished: '2016-04-04T15:42:35.752Z'
+dateModified: '2016-04-04T15:42:27.396Z'
 title: Play Parties
 author: []
 sourcePath: _posts/2016-04-04-play-parties.md
@@ -54,9 +54,7 @@ equipment, and toys. These are all freely available for use, and we
 encourage everyone to try them out! We would like them to come back in 
 one piece however, so do treat them with respect. This includes 
 returning them to their proper place after play and making sure they are
-not mixed up with your toys and taken home. Any toys used in contact 
-with body fluids must be protected by a condom and left in the bathroom 
-for future cleaning.
+not mixed up with your toys and taken home.
 
 Non-venue toys should not be touched without the owner's permission. 
 Some kinky toys are expensive and easily broken. Others are dangerous. 
@@ -89,7 +87,7 @@ The official KHK photographer. See them if you want photos.
 
 Should you have any problems or you are being bothered by anyone, you should talk to one of the DMs or Event Crew _immediately_.
 
-#### Being "Under Someone's Protection"
+#### ~ Being "Under Someone's Protection" ~
 
 If you are going to a party alone or you think you would feel 
 vulnerable, you can ask to be "under the DM's protection". They can 
@@ -122,15 +120,15 @@ comfortable.
 
 ### ~ Safewords ~
 
-Working out a safe-word before play is very important. (A safeword is
+Working out a safe-word before play is very important. A safeword is
 a word agreed upon by both parties that can be used to indicate they 
 want the scene to end. It's particularly essential in scenes involving 
-struggle/coercion play where the sub struggling and saying "no" might be
-part of the scene).
+struggle/coercion roleplay where the sub struggling and saying "no" might be
+part of the scene.
 
-### ~ Alcohol ~
+### ~ Alcohol & Drugs ~
 
-Having a drink to relax and socialize is acceptable, but keep it to two or less if you plan on playing! No [drunken masters][1]!! (Or subs)!
+Having a drink to relax and socialize is acceptable, but keep it to two or less if you plan on playing. No [drunken masters][1]!! (Or subs)!
 
 If you are inebriated, you are unable to legally consent. If you are 
 drunk and playing, you are putting yourself and your play partner at 
@@ -146,7 +144,7 @@ Drug use is not accepted under any circumstances and anyone suspected of using i
 
 You are welcome to watch scenes! However, please note that 
 interruptions or standing too close can ruin people's headspace and is 
-considered quite rude. Keep chatting to the social or smoking area, and 
+considered quite rude. Keep chatting to the social area or outside, and 
 give people ample space unless invited to come closer.
 
 Joining in a scene without invitation is completely unacceptable. As 
