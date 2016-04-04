@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Munches are fun, informal, social events for anyone interested in \nkink or BDSM. While we like to have a relaxed and easy-going atmosphere \nat our munches, we do have a few requests concerning etiquette."
-datePublished: '2016-04-04T15:02:34.850Z'
-dateModified: '2016-04-04T15:02:10.580Z'
-title: "How do 'munches' work? "
+datePublished: '2016-04-04T15:23:05.184Z'
+dateModified: '2016-04-04T15:07:25.798Z'
+title: "How do 'Munches' Work?"
 author: []
+sourcePath: _posts/2016-04-04-how-do-munches-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-how-do-munches-work.md
-published: true
 url: how-do-munches-work/index.html
 _type: Article
 
 ---
-# How do 'munches' work?
+# How do 'Munches' Work?
 
 Munches are fun, informal, social events for anyone interested in 
 kink or BDSM. While we like to have a relaxed and easy-going atmosphere 
