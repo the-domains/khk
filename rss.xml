@@ -2,13 +2,25 @@
     <channel>
         <title><![CDATA[KHK]]></title>
         <description><![CDATA[KHK]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/khk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 14:24:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 14:24:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/khk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined62c73a7f-713b-48be-ba08-5b98b21e4724/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fee75a1-36a1-4c86-b325-01e19b348048.jpg">]]></description>
+            <link>https://thegrid.ai/khk/2871d19a-c948-401b-8e5a-ecd93db4db4d/index.html</link>
+            <guid isPermaLink="false">2871d19a-c948-401b-8e5a-ecd93db4db4d</guid>
+            <pubDate>Mon, 04 Apr 2016 14:22:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kinky Hong Kong (KHK) is Hong Kong's flagship kink group. Created by a 
+group of Hong Kong's most experienced members, KHK exists to serve the 
+community through education, safety, and great events. We are 
+not-for-profit and rely on volunteers who donate their time, equipment, 
+and venues.</p>]]></description>
+            <link>https://thegrid.ai/khk/62c73a7f-713b-48be-ba08-5b98b21e4724/index.html</link>
             <guid isPermaLink="false">62c73a7f-713b-48be-ba08-5b98b21e4724</guid>
             <pubDate>Mon, 04 Apr 2016 14:16:42 GMT</pubDate>
         </item>
